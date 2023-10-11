@@ -356,4 +356,8 @@ button:active{
     .content pre{
         font-size: 0.80em;
     }
+
+    .login{
+        width: auto;
+    }
 }
