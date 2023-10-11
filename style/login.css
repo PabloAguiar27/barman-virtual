@@ -357,4 +357,8 @@ button:active{
     .login{
         width: auto;
     }
+
+    .login .input i{
+        left: 266px;
+    }
 }
