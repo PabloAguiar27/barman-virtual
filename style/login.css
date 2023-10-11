@@ -347,10 +347,7 @@ button:active{
     }
     
     .content{
-        display: flex;
-        flex-direction: column;
         width: auto;
-        padding: 100px 0;
     }
 
     .content pre{
