@@ -262,6 +262,12 @@ button:active{
 
 @media only screen and (max-width: 1450px){
     .login .input i{
+        left: 350px;
+    }
+}
+
+@media only screen and (max-width: 1280px){
+    .login .input i{
         left: 300px;
     }
 }
