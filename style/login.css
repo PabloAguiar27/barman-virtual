@@ -338,7 +338,7 @@ button:active{
     }
 
     .background{
-        height: 100vh;
+        height: 190vh;
         background-image: url('../img/Banner.jpg')
     }
     .home{
