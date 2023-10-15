@@ -73,10 +73,10 @@ h1{
     position: absolute;
     content: "";
     width: 105%;
-    height: 3.5px;
+    height: 3px;
     top: 110%;
     right: 0;
-    transition: 0.5s;
+    transition: 0.3s;
     transform: scaleX(0);
     transform-origin: center;
     background: linear-gradient(to left, rgb(255, 255, 255), rgba(255, 255, 255, 0.925));
